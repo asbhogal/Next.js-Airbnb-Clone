@@ -16,3 +16,19 @@ This repo is currently under development
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB logo" width="50" height="50" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://prismalens.vercel.app/header/logo-dark.svg"><img src="https://prismalens.vercel.app/header/logo-dark.svg" alt="Prisma logo" width="50" height="50" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://next-auth.js.org/img/logo/logo-sm.png"><img src="https://next-auth.js.org/img/logo/logo-sm.png" alt="NextAuth logo" width="50" height="50" style="max-width:100%;"></a>
+
+<strong>Disclaimer</strong>
+
+All content used within this project is solely for personal, demonstrational purposes and in no way bears relation to the company, nor does the repo owner. All trademarks and content belong to their respective copyright holders.
+
+This website is a clone of [insert organization name] for educational and informational purposes only. The information contained on this website is not intended to represent the views, opinions, or policies of [insert organization name].
+
+This website is not affiliated with [insert organization name] in any way and does not have their endorsement or approval. This website is not intended to deceive or mislead visitors into believing that it is the official website of [insert organization name].
+
+The information provided on this website is provided "as is" without any representations or warranties, express or implied. The owner of this website makes no representations or warranties in relation to the accuracy or completeness of the information provided on this website.
+
+The owner of this website will not be liable for any losses, damages, or injuries arising from the use of this website or the information provided on this website. Visitors to this website use it at their own risk.
+
+Visitors to this website should also be aware that the information provided on this website may not be up-to-date and should not be relied upon for any legal or financial decision-making.
+
+By accessing and using this website, visitors agree to be bound by this disclaimer.
