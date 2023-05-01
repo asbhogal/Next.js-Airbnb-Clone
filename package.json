@@ -8,6 +8,17 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asbhogal/Next.js-Airbnb-Clone.git"
+  },
+  "keywords": [],
+  "author": "Aman Singh Bhogal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asbhogal/Next.js-Airbnb-Clone/issues"
+  },
+  "homepage": "https://github.com/asbhogal/Next.js-Airbnb-Clone",
   "dependencies": {
     "@types/node": "18.16.3",
     "@types/react": "18.2.0",
