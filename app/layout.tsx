@@ -1,4 +1,4 @@
-import './globals.css'
+import './styles/index.scss'
 
 import { Nunito } from "next/font/google"
 
