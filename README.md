@@ -21,9 +21,9 @@ This repo is currently under development
 
 All content used within this project is solely for personal, demonstrational purposes and in no way bears relation to the company, nor does the repo owner. All trademarks and content belong to their respective copyright holders.
 
-This website is a clone of [insert organization name] for educational and informational purposes only. The information contained on this website is not intended to represent the views, opinions, or policies of [insert organization name].
+This website is a clone of Airbnb for educational and informational purposes only. The information contained on this website is not intended to represent the views, opinions, or policies of Airbnb.
 
-This website is not affiliated with [insert organization name] in any way and does not have their endorsement or approval. This website is not intended to deceive or mislead visitors into believing that it is the official website of [insert organization name].
+This website is not affiliated with Airbnb in any way and does not have their endorsement or approval. This website is not intended to deceive or mislead visitors into believing that it is the official website of Airbnb.
 
 The information provided on this website is provided "as is" without any representations or warranties, express or implied. The owner of this website makes no representations or warranties in relation to the accuracy or completeness of the information provided on this website.
 
