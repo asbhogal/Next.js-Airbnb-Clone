@@ -29,6 +29,7 @@ This full stack application has been created using Next.js 13 with React 18, Typ
 
 <strong>Stacks Used</strong>
 <br>
+<br>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs logo" width="50" height="50" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React logo" width="50" height="50" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" width="50" height="50" style="max-width:100%;"></a>
