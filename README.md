@@ -4,9 +4,32 @@
 
 </div>
 
-This repo is currently under development
+A clone of the Airbnb website (as of May 2023) which allows a user to create an account or log in using email and password combination (or Google/Github), book/reserve a location, lookup a property, cancel a reservation as a guest and owner, create and delete properties, favorite properties and create shareable links.
+
+This full stack application has been created using Next.js 13 with React 18, Typescript, SASS, MongoDB, Prisma and Next Auth 2023. This repo is currently under development
+
+<strong>Features</strong>
+<br>
+<br>
+ - Login authentication (incl. Google and GitHub)
+ - Client form validation and handling
+ - Server error handling
+ - Page loading and empty state
+ - Booking / Reservation system
+ - Guest and owner reservation cancellation system
+ - Creation and deletion of properties
+ - Pricing calculation
+ - Advanced search algorithm by category, date range, map location, number of guests, rooms and bathrooms
+ - Favourite properties
+ - Leverages /app directory for POST & DELETE routes in handlers
+ - Fetch data in server React components via database access
+ - error.tsx and loading.tsx handling
+ - Fully responsive
+ - Optimized for the web
+
 
 <strong>Stacks Used</strong>
+<br>
 <br>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs logo" width="50" height="50" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React logo" width="50" height="50" style="max-width:100%;"></a>
