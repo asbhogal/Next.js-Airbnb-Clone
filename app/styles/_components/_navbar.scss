@@ -1,0 +1,65 @@
+@use '../_partials/variables' as *;
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    width: 100%;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05); 
+}
+
+.navigation {
+    display: flex;
+}
+
+.logo {
+    cursor: pointer;
+}
+
+.search-bar {
+    border: 1px solid $gainsboro;
+    border-radius: 40px;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.08), 0 4px 12px rgba(0,0,0,0.05);
+    transition: box-shadow 0.2s ease;
+}
+
+.search-fields {
+    display: flex;
+    align-items: center;
+    > * {
+        display: flex;
+    }
+    &:hover {
+        box-shadow: 0 2px 4px rgba(0,0,0,0.18);
+    }
+    > button {
+        background: transparent;
+        cursor: pointer;
+        padding: 0;
+        font-size: 16px;
+        border: 1px solid transparent;
+        border-radius: 4px;
+        align-items: center;
+        &:first-child,
+        &:nth-child(2) {
+            color: $raisin-black;
+            font-weight: 600;
+        }
+        .field-line {
+            &:first-child {
+                border-right: 2px solid $gainsboro;
+            }
+            &:nth-child(2) {
+                border-right: 1px solid $gainsboro;
+            }
+        }
+    }
+}
+
+.search-icon {
+    display: flex;
+    background-color: $radical-red;
+    border-radius: 50%;
+    color: $white;
+    padding: 6px;
+}

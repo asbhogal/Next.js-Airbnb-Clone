@@ -1,5 +1,5 @@
 import './styles/index.scss'
-import Navbar from './components/Navbar'
+import Navbar from './components/navbar/Navbar'
 
 import { Nunito } from "next/font/google"
 

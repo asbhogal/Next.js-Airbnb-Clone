@@ -1,3 +1,5 @@
 @use './_partials/globals' as *;
 @use './_partials/responsive' as *;
 @use './_partials/variables' as *;
+
+@use './_components/_navbar.scss' as *;
